@@ -12,7 +12,7 @@ Usability Engineering
 
 ## Multimeter
 
-Picture of device:
+Picture of device: <br>
 [!picture][multimeter]
 
 Backstory: <br>
