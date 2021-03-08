@@ -13,6 +13,7 @@ Usability Engineering
 Multimeter
 
 Picture of device:
+[!picture][multimeter]
 
 Backstory:
 	I have an electric skateboard which I use to get around town whenever I’m heading somewhere that isn’t too far from where I live.  One day, my board stopped accelerating as fast as it used to, and its top speed lowered to about 12mph from its original top speed of 27mph.  I emailed the company’s customer support and they told me the problem was most likely the battery, and that I should buy a multimeter to test it.
