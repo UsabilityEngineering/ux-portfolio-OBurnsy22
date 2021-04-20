@@ -7,7 +7,7 @@ Usability Engineering
 ## Raspberry Pi 4
 
 Picture of device: <br>
-[!pi.jpg](pi.jpg)
+![pi.jpg](pi.jpg)
 
 Backstory: <br>
   For my project in CSCI 430, we are trying to build an autonomous RC-Car, dubbed ‘Project-MT’, or ‘Project Mini Tesla’.  The car should be controlled via user input, and will be utilizing computer vision to be able to maneuver around objects in its path.  Because of all the functionality we need from this car (controlling 4 motors, attaching a camera, streaming video to a desktop, taking control input from the desktop), I acquired this Raspberry Pi 4 to do the job.
