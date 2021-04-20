@@ -4,7 +4,7 @@
 ## UX Team Project
 
 
-[Journal 1] (/journal1/README.md)
+[Journal 1] (https://github.com/UsabilityEngineering/ux-portfolio-OBurnsy22/blob/master/journal1/README.md)
 
-[Journal 2] (/journal2/README.md)
+[Journal 2] (https://github.com/UsabilityEngineering/ux-portfolio-OBurnsy22/blob/master/journal2/README.md)
 
