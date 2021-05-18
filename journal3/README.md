@@ -7,7 +7,7 @@ Usability Engineering
 ## Keychron K6 Wireless Mechanical Keyboard
 
 Picture of device: <br>
-![pi.jpg](pi.jpg)
+[keychron](keychron.jpg)
 
 Backstory: <br>
   When I was a sophomore in highschool, I built my first computer since I was really into computer games at the time,
@@ -26,9 +26,9 @@ can fit in your bag and take almost anywhere.  I opted to go for the Brown LK Op
 board.  The color of the switch (Brown) often refers to how loud it will be when you press on a key, examples of quietest to loudest 
 is Black, Brown, Blue, Red.  The type of switch the key is (LK Optical) also affects how it feels, but is more geared towards how 
 fast the keypress will be registered.  The Keychron K6 is hands down the most **satisfying** keyboard I have ever typed on.  The Brown 
-Optical switches provide a great typing feel, while also not being too loud, which is what I was aiming for after my previous keyboard.  
-Due to how satisfying it is to use, this board has become **memorable** to the point where I could probably identify it by its feel, with 
-my eyes closed.
+Optical switches provide a great typing feel, while also not being too loud, which is what I was aiming for after my previous keyboard.
+Due to how satisfying it is to use, this board has become **memorable** to the point where I could probably identify it by its feel,
+with my eyes closed.
 
   This board also can be used in a wired or wireless mode, with a wireless battery life of 240 hours with the backlight off.  This is 
 extremely **useful** as it can be wirelessly connected to 3 devices as once, and it takes less than 5 seconds to swap between devices 
