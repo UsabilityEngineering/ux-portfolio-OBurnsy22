@@ -7,7 +7,7 @@ Usability Engineering
 ## Keychron K6 Wireless Mechanical Keyboard
 
 Picture of device: <br>
-![keychron](keychron.jpg)
+![keychron](keychron_rotated.jpg)
 
 Backstory: <br>
   When I was a sophomore in highschool, I built my first computer since I was really into computer games at the time,
